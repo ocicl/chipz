@@ -1,0 +1,10 @@
+* chipz
+
+A Common Lisp library for decompressing deflate, zlib, gzip, and bzip2
+data.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/sharplispers/chipz.git |
+| commit  | 6f80368                                       |
+| systems | chipz                                         |
+|---------+-----------------------------------------------|
